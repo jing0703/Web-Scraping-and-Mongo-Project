@@ -8,6 +8,7 @@ This application scrapes various websites for data related to Mars and displays 
 
 Step 1 - Scraping
 Initial scraping is completed using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
+
 Data source:
 * The latest News from [NASA Mars News Site](https://mars.nasa.gov/news/) 
 * Current Featured Mars Image from [JPL Featured Space Image](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars)     
