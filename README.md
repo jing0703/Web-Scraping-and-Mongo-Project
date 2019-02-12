@@ -2,6 +2,7 @@
 
 ## Preview
 This application scrapes various websites for data related to Mars and displays the information in a single HTML page. 
+
 [View Website](https://mission-mars0703.herokuapp.com/)
 
 ## Method & Usage
